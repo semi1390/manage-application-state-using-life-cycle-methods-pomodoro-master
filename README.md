@@ -34,6 +34,4 @@ Modify the Pomodoro app created by breaking into UI components in the previous e
 4. Edit App, ButtonGroup and Timer component by adding life cycle methods to fulfill the stated requirements.	  
 6. Ensure that no memory leaks happen when components are removed from the DOM.   
 7. Run the test scripts available under `src/test` by giving the `npm run test` command in the terminal to test locally. 
-8. Refactor the solution to ensure all test cases are passing. 
-9. Zip the solution code with the name same as the assignment name.  
-10. Upload the zipped solution for submission.
+8. Refactor the solution to ensure all test cases are passing. .
